@@ -45,15 +45,6 @@ Sales-Customer-Analytics-SQL/
 └── docs/
 ```
 
-## How to Run
-1. Install Microsoft SQL Server and SQL Server Management Studio (SSMS).
-2. Restore the supplied database backup or import the CSV files into SQL Server.
-3. Open the `.sql` scripts in SSMS.
-4. Execute the scripts in numerical order, starting with database initialization and exploration.
-5. Review the query outputs and customer/product reports.
-
-> File names and folder contents may vary depending on the version of the project in the repository.
-
 ## Key Learning Outcomes
 - Applied SQL to structured sales data and a data warehouse.
 - Practiced advanced querying, aggregations, joins, and window functions.
